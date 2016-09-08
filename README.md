@@ -39,6 +39,8 @@ Sudoku uses a singleton algorithm to try all possible ways to deduce a correct n
 When solve is selected, the board will be solved and updated in "runs" through the board. The display will refresh after each run to give the user an idea of how the program is solving the puzzle. After the puzzle has been solver, the number of runs will be displayed alongside the solved puzzle.
 
 Example of a solved puzzle:
+
+
 ![Solved Puzzle](https://github.com/benedictb/Sudoku/blob/master/img/sudoku.png)
 
 
